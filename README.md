@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://Lilu580.github.io/bose-landing/)
+# Bose Landing 
+This is the "Bose Landing" project - a web page showcasing products from Bose.
+
+##Technologies
+- HTML5
+- CSS3
+- SASS(SCSS)
+
+##Usage
+- [DEMO LINK](https://Lilu580.github.io/bose-landing/)
+- This page is a portfolio project.
+
+##Autors
+- Bogdan Maliuta (Lilu580)
